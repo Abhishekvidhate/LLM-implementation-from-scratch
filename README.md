@@ -23,9 +23,7 @@ The purpose of this project is to understand and learn the core concepts and bas
 git clone git_repo_link
 ###
 3. Install the required Python packages:
-####
-pip install -r requirements.txt
-####
+####pip install -r requirements.txt####
 
 
 ## Usage
