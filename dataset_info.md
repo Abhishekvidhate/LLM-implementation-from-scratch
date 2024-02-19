@@ -4,4 +4,4 @@ OpenWebText is a large-scale dataset created by OpenAI, comprising diverse text 
 
 ## Access the Dataset
 
-[OpenWebText Dataset](https://github.com/openai/webtext)
+[OpenWebText Dataset]([https://github.com/openai/webtext](https://skylion007.github.io/OpenWebTextCorpus/)https://skylion007.github.io/OpenWebTextCorpus/)
