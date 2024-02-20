@@ -1,0 +1,7 @@
+matplotlib
+numpy
+ipykernel
+pylzma
+jupyter
+torch
+tqdm
