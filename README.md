@@ -19,9 +19,9 @@ The purpose of this project is to understand and learn the core concepts and bas
 
 ## Installation
 1. Clone this repository:
-###
-git clone git_repo_link
-###
+   
+git clone https://github.com/Abhishekvidhate/LLM-implementation-from-scratch.git
+
 3. Install the required Python packages:
 ****
 pip install -r requirements.txt
