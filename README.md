@@ -36,17 +36,6 @@ python chatbot.py
 ####
 3. Enter prompts in the command-line interface to interact with the chatbot.
 
-## Docker
-A Dockerfile is provided to containerize the chatbot application. To build the Docker image and run the container:
-
-1. Build the Docker image:
-####
-docker build -t gpt-chatbot
-####
-2. Run the Docker container:
-####
-docker run -it gpt-chatbot
-####
 
 ## Acknowledgments
 - This project was inspired by the advancements in natural language processing and the work done by the open-source community. [OpenWebText](https://skylion007.github.io/OpenWebTextCorpus/)
