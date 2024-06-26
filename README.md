@@ -1,7 +1,7 @@
 # LLM-implementation-from-scratch , GPT-Based Chatbot Assistant with OpenWebText
 
 This repository contains a chatbot assistant powered by a Generative Pre-trained Transformer (GPT) language model trained on the OpenWebText dataset. The chatbot interacts with users in real-time through a command-line interface.
-
+### [My Results](result.md)
 ## Purpose
 The purpose of this project is to understand and learn the core concepts and basics of working with GPT-based language models. It involves data extraction from the OpenWebText dataset, training a GPT model, and creating an interactive chatbot interface for users to engage in conversation.
 
